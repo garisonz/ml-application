@@ -12,6 +12,7 @@ A collection of hands-on projects and exercises covering core ML topics — from
 |--------|-------|-------|
 | [00-tools](00-tools/) | NumPy, Pandas, Linear Algebra | NumPy, Pandas |
 | [01-intro](01-intro/) | EDA & Linear Algebra | NumPy, Pandas |
+| [02-linear_regression](02-linear_regression/) | EDA & Linear Algebra | NumPy, Pandas |
 
 
 ## Setup
